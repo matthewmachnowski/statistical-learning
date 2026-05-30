@@ -26,8 +26,8 @@ Each chapter has its own folder containing:
 
 | # | Title | Status |
 |---|---|---|
-| 1 | Introduction | — |
-| 2 | Statistical Learning | in progress |
+| 1 | Introduction | done |
+| 2 | Statistical Learning | done |
 | 3 | Linear Regression | in progress |
 | 4 | Classification | — |
 | 5 | Resampling Methods | — |
